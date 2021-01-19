@@ -2,12 +2,7 @@
   
    
    <!-- Menu de navigation du site -->
-<ul class="navbar">
-  <li><a href="index.html">Page d'accueil</a> </li>
-  <li><a href="reflexions.html">Réflexions</a></li>
-  <li><a href="ville.html">Ma ville</a></li>
-  <li><a href="liens.html">Liens</a> </li>
-</ul>
+
 
 <!-- Contenu principal -->
 
