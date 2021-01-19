@@ -6,7 +6,7 @@
 
 <!-- Contenu principal -->
 
-<h1>Ma seconde page avec du style</h1>
+<h1>Ma premiere page avec du style</h1>
 
 <p>Bienvenue sur ma page avec du style! 
 
